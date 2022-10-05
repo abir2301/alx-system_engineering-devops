@@ -1,1 +1,0 @@
-print directory phisical path 
